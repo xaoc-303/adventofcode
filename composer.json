@@ -8,6 +8,7 @@
     },
     "autoload": {
         "files": [
+            "src/2018/d02/d02.php",
             "src/2018/d01/d01.php"
         ]
     }
